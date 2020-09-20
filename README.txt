@@ -1,8 +1,8 @@
 PROJECT INTRODUCTION:
-This p5.js creative coding project is inspired by the 19th century modern art movement -- Pointillism --
+This p5.js creative coding project is inspired by the 19th-century modern art movement -- Pointillism --
 a technique of painting in which small, distinct dots of color are applied in patterns to form an image.
 This project simulates an interactive exhibition experience, in which the user, together with the author,
-recreate some of the most well-known Pointillism artwork in history with modern technology.
+recreates some of the most well-known Pointillism artwork with modern technology.
 The look of the final artwork not only depends on the code itself, but also the user's interactive control of
 the size of the paint stroke. Since the user's interaction is essential to the final artwork, they are given 
 credit on the exhibition label.
